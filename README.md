@@ -3,6 +3,7 @@
 Programa em Haskell que lê resultados de um campeonato de futebol, valida a entrada e mostra a tabela de classificação. Desenvolvido no Haskell Playground.
 
 Links do Playground
+
 Main.hs: https://play.haskell.org/saved/kereR8Gk
 
 Testes.hs:
