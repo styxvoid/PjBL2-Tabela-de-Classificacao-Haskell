@@ -8,6 +8,8 @@ Main.hs: https://play.haskell.org/saved/kereR8Gk
 
 Testes.hs:
 
+Decisoes.md: https://github.com/styxvoid/PjBL2-Tabela-de-Classificacao-Haskell/blob/main/Decisoes.md#decis%C3%B5es-de-projeto
+
 Arquivos
 > Main.hs: o programa, dividido em Camada 1 (tipos), Camada 2 (classificação), Camada 3 (leitura e saída) e main.
 
