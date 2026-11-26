@@ -6,7 +6,7 @@ Links do Playground
 
 Main.hs: https://play.haskell.org/saved/kereR8Gk
 
-Testes.hs:
+Testes.hs: https://play.haskell.org/saved/Hj2vNpBb
 
 Decisoes.md: https://github.com/styxvoid/PjBL2-Tabela-de-Classificacao-Haskell/blob/main/Decisoes.md#decis%C3%B5es-de-projeto
 
